@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>condition_items</id>
+    <status>active</status>
+    <version>1.0</version>
+    <priority>4294967294</priority>
+    <position>100</position>
+    <default_language>en</default_language>
+    <auto_install>MULTIVENDOR,ULTIMATE</auto_install>
+    <queries>
+        <item>ALTER TABLE `?:products` ADD `condition_items` varchar(32) NOT NULL default ''</item>
+        <item for="uninstall">ALTER TABLE  `?:products` DROP `condition_items`</item>
+    </queries>
+</addon>
+
+

@@ -1,0 +1,45 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgctxt "Addons::name::condition_items"
+msgid "condition_itemse"
+msgstr "Состояние товара"
+
+msgctxt "Addons::description::condition_items"
+msgid "Addon description"
+msgstr "Создает поле для отслеживания состояния товара"
+
+msgctxt "Languages::condition_items_title"
+msgid "condition_items_title"
+msgstr "Состояние товара"
+
+msgctxt "Languages::status_condition_items"
+msgid "status_condition_items"
+msgstr "Состояние"
+
+msgctxt "Languages::ci_destroyed"
+msgid "ci_destroyed"
+msgstr "Уничтожен"
+
+msgctxt "Languages::ci_poor"
+msgid "ci_poor"
+msgstr "Мало"
+
+msgctxt "Languages::ci_good"
+msgid "ci_good"
+msgstr "Хорошо"
+
+msgctxt "Languages::ci_average"
+msgid "ci_average"
+msgstr "Средне"
+
+msgctxt "Languages::ci_excellent"
+msgid "ci_excellent"
+msgstr "Великолепно"
+
+
+
